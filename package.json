@@ -1,0 +1,15 @@
+{
+  "name": "riggs-enrollment-backend",
+  "version": "1.0.0",
+  "description": "Persistent file system database backend for CvSU Bacoor Enrollment System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "author": "Lark Ibuos",
+  "license": "ISC"
+}
